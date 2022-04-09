@@ -1,2 +1,2 @@
-# BlockiesDemo
-Blockie creation using my hashed name. 
+# Blockies Demo
+Blockie created using my hashed name. 
